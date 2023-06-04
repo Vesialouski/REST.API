@@ -1,0 +1,19 @@
+{
+   "name":"Sergey",
+   "secondname":"Vesialouski",
+   "email":"bysimba9444@gmail.com",
+   "phonenumber":[
+      "+375291719742",
+      "3197679"
+   ],
+   "address":{
+      "city":"Minsk",
+      "zip":"220094",
+      "street":"prospekt rokossovskogo"
+   },
+   "age":28,
+   "gender":"male",
+   "hobbies":null,
+   "marriage":false,
+   "job":"freelancer"
+}
